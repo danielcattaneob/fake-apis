@@ -2,18 +2,42 @@
   "cars": [
     {
       "id": 1,
-      "name": "gol"
+      "model": "Gol",
+      "brand": "Volkswagen",
+      "price": {
+        "currency": "USD",
+        "amount": 10000
+      }
     },
     {
       "id": 2,
-      "name": "uno"
+      "model": "Uno",
+      "brand": "Fiat",
+      "price": {
+        "currency": "EUR",
+        "amount": 7500
+      }
     },
     {
       "id": 3,
-      "name": "nivus"
+      "model": "Cronos",
+      "brand": "Fiat",
+      "price": {
+        "currency": "ARS",
+        "amount": 9500000
+      }
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "exchange_rates": [
+    {
+      "from": "USD",
+      "to": "ARS",
+      "exchange_rate": 730
+    },
+    {
+      "from": "EUR",
+      "to": "ARS",
+      "exchange_rate": 810
+    }
+  ]
 }
