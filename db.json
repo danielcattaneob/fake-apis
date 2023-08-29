@@ -26,18 +26,32 @@
         "currency": "ARS",
         "amount": 9500000
       }
+    },
+    {
+      "id": 4,
+      "model": "Toro",
+      "brand": "Fiat",
+      "price": {
+        "currency": "BRL",
+        "amount": 130000
+      }
     }
   ],
   "exchange_rates": [
     {
-      "from": "USD",
-      "to": "ARS",
-      "exchange_rate": 730
-    },
-    {
       "from": "EUR",
       "to": "ARS",
-      "exchange_rate": 810
+      "exchange_rate": 810.10
+    },
+    {
+      "from": "USD",
+      "to": "ARS",
+      "exchange_rate": 730.25
+    },
+    {
+      "from": "USD",
+      "to": "EUR",
+      "exchange_rate": 0.92
     }
   ],
   "historical_exchange_rates": [
