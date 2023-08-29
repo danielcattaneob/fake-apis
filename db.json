@@ -39,5 +39,37 @@
       "to": "ARS",
       "exchange_rate": 810
     }
+  ],
+  "historical_exchange_rates": [
+    {
+      "date": "2023-08-01"
+      "from": "USD",
+      "to": "ARS",
+      "exchange_rate": 730
+    },
+    {
+      "date": "2023-07-01"
+      "from": "USD",
+      "to": "ARS",
+      "exchange_rate": 650
+    },
+    {
+      "date": "2023-06-01"
+      "from": "USD",
+      "to": "ARS",
+      "exchange_rate": 600
+    },
+    {
+      "date": "2023-05-01"
+      "from": "USD",
+      "to": "ARS",
+      "exchange_rate": 530
+    },
+    {
+      "date": "2023-04-01"
+      "from": "USD",
+      "to": "ARS",
+      "exchange_rate": 400
+    }
   ]
 }
