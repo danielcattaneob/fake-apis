@@ -1,11 +1,10 @@
 {
   "habitacion": {
-    "disponibilidad": {
         "id_hotel": 123,
         "tipo_habitacion": "SIMPLE",
         "fecha_desde": "2024-12-25",
         "fecha_hasta": "2024-12-30",
         "disponible": true
-      }
+      
     }
 }
