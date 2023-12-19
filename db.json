@@ -33,33 +33,5 @@
       "fecha_desde":"2024-12-25",
       "fecha_hasta":"2024-12-30",
       "disponible":true
-   },
-   {
-      "id_hotel":3,
-      "tipo_habitacion":"DOBLE",
-      "fecha_desde":"2024-12-25",
-      "fecha_hasta":"2024-12-30",
-      "disponible":true
-   },
-   {
-      "id_hotel":1,
-      "tipo_habitacion":"TRIPLE",
-      "fecha_desde":"2024-12-25",
-      "fecha_hasta":"2024-12-30",
-      "disponible":true
-   },
-   {
-      "id_hotel":2,
-      "tipo_habitacion":"TRIPLE",
-      "fecha_desde":"2024-12-25",
-      "fecha_hasta":"2024-12-30",
-      "disponible":true
-   },
-   {
-      "id_hotel":3,
-      "tipo_habitacion":"TRIPLE",
-      "fecha_desde":"2024-12-25",
-      "fecha_hasta":"2024-12-30",
-      "disponible":true
    }
 ]
